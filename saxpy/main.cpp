@@ -6,7 +6,7 @@
 void saxpyCuda(int N, float alpha, float* x, float* y, float* result);
 void printCudaInfo();
 
-
+// peep
 void usage(const char* progname) {
     printf("Usage: %s [options]\n", progname);
     printf("Program Options:\n");
